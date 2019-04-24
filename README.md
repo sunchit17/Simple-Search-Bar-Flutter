@@ -1,6 +1,6 @@
 # search_bar_in_flutter
 
-Search Bar in Flutter
+ListView Search Bar in Flutter
 
 ## Getting Started
 
